@@ -5,8 +5,6 @@ import { Form, Button, Alert } from 'react-bootstrap';
 import { useMutation } from '@apollo/client';
 import { LOGIN_USER } from '../utils/mutations';
 import Auth from '../utils/auth';
-// import { loginUser } from '../utils/API';
-
 
 const LoginForm = () => {
   const [userFormData, setUserFormData] = useState({ email: '', password: '' });
@@ -14,6 +12,10 @@ const LoginForm = () => {
   const [showAlert, setShowAlert] = useState(false);
 
   const [login, {error}] = useMutation(LOGIN_USER);
+
+  useEffect(() => {
+    error ? setShowAlert(true) : setShowAlert(false);
+  }, [error]);
 
   const handleInputChange = (event) => {
     const { name, value } = event.target;
