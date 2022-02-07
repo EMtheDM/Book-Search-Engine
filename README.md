@@ -66,7 +66,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ## Installation
 * Clone the repository using:
 ```
-git clone https://github.com/laurelthorburn/book-search-engine
+git clone https://github.com/EMtheDM/Book-Search-Engine
 ```
 * Ensure you are in the current working directory
 * Install dependencies by opening the terminal (ctrl + j on windows) and running:
