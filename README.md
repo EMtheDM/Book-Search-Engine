@@ -78,10 +78,6 @@ npm install || npm i
 npm run start
 ```
 
-<a name="usagesection"></a>
-## Usage
-
-
 <a name="licensesection"></a>
 ## License
 Copyright <2021>
