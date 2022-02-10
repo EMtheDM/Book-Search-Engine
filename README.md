@@ -121,7 +121,7 @@ git push origin yourname-branch
 
 <a name="testsection"></a>
 ## Tests
-
+No tests at this time.
 <a name="linksection"></a>
 ## Links
   Deployed Heroku Site: https://fierce-river-91159.herokuapp.com/
