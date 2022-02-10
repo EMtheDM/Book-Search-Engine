@@ -13,11 +13,10 @@ The purpose of this site was to take a fully functioning Google Books API search
 3. [Acceptance Criteria](#acceptancesection)
 4. [ Installation ](#installsection)
 5. [ License ](#licensesection)
-6. [ Contributing ](#contribsection)
-7. [ Tests ](#testsection)
-8. [ Questions ](#questionssection)
-9. [ Screenshots ](#screenshotsection)
-10. [ Links ](#linksection)
+6. [ Tests ](#testsection)
+7. [ Questions ](#questionssection)
+8. [ Screenshots ](#screenshotsection)
+9. [ Links ](#linksection)
 
 <a name="usersection"></a>
 ## User Story
@@ -108,7 +107,11 @@ git push origin yourname-branch
 
   <a name="testsection"></a>
 ## Tests
-  No tests at this time
+  ![sign up](media/images/signUp.png)
+  ![login](media/images/login.png)
+  ![main page](media/images/mainPage.png)
+  ![search books](media/images/searchBooks.png)
+  ![saved books](media/images/savedBooks.png)
 
   <a name="questionssection"></a>
 ## Questions?
