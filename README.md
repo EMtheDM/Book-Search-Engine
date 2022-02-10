@@ -13,9 +13,9 @@ The purpose of this site was to take a fully functioning Google Books API search
 3. [Acceptance Criteria](#acceptancesection)
 4. [ Installation ](#installsection)
 5. [ License ](#licensesection)
-6. [ Tests ](#testsection)
+6. [ Screenshots ](#screenshotsection)
 7. [ Questions ](#questionssection)
-8. [ Screenshots ](#screenshotsection)
+8. [ Tests ](#testsection)
 9. [ Links ](#linksection)
 
 <a name="usersection"></a>
@@ -105,8 +105,8 @@ git push origin yourname-branch
 ```
 5. Submit a pull request and wait for it to be approved or denied.
 
-  <a name="testsection"></a>
-## Tests
+  <a name="screenshotsection"></a>
+## Screenshots
   ![sign up](media/images/signUp.png)
   ![login](media/images/login.png)
   ![main page](media/images/mainPage.png)
@@ -119,8 +119,8 @@ git push origin yourname-branch
 
   Questions/comments/concerns? Please send an email to eric_martin@me.com
 
-<a name="screenshotsection"></a>
-## Screenshots
+<a name="testsection"></a>
+## Tests
 
 <a name="linksection"></a>
 ## Links
